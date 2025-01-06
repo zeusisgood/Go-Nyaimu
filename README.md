@@ -1,6 +1,6 @@
 # HOW TO USE
 
-`go get github.com/username/go-nyaimu`
+`go get github.com/zeusisgood/Go-Nyaimu`
 
 ```
 package main
