@@ -5,7 +5,7 @@
 ```
 package main
 
-import "github.com/username/go-nyaimu"
+import "github.com/zeusisgood/Go-Nyaimu"
 
 func main() {
 	nyaimu.Nyaimu()
